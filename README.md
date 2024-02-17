@@ -1,5 +1,6 @@
 # CS-STUDY
-CS 공부하는 레포지토리입니다. 
+CS 공부하는 레포지토리입니다. <br>
+링크 : https://github.com/devSquad-study/2023-CS-Study?tab=readme-ov-file
 
 ## 방식 
 
@@ -15,4 +16,4 @@ CS 공부하는 레포지토리입니다.
 만약 안 했을시 벌금 1000원
 
 ## 목표
-
+김지희 : 하루에 4파트씩 공부하기 
