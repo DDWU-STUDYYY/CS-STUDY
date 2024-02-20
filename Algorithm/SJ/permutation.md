@@ -31,8 +31,7 @@ public class Main15 {
   static Integer[] bucket;
 
   public static void pick(int index) {
-
-    // 돌아가는 조건
+    
     if (index == bucket.length) {
       Arrays.stream(bucket).forEach(i -> System.out.print(i+" "));
       System.out.println();
@@ -84,7 +83,6 @@ public class Main16 {
 
   public static void pick(int index) {
 
-    // 돌아가는 조건
     if (index == bucket.length) {
       Arrays.stream(bucket).forEach(i -> System.out.print(i+" "));
       System.out.println();
