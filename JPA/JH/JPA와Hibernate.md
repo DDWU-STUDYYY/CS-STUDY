@@ -1,4 +1,4 @@
-## 🙌 0227/ JPA 와 Hibernate
+## 🙌 0227. JPA 와 Hibernate
 
 JPA
 
