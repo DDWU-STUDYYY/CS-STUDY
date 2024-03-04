@@ -1,7 +1,7 @@
 # CS-STUDY & Coding-Test
-CS & Coding-Test 공부하는 레포지토리입니다. <br>
+CS.코테 공부하는 레포지토리 입니다 <br>
 링크 : https://github.com/devSquad-study/2023-CS-Study?tab=readme-ov-file (CS 면접 스터디 참고용 링크) <br>
-링크 : https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit (프로그래머스 알고리즘 고득점 키트 매일 1문제) 
+코테 링크 : 프로그래머스 알고리즘 고득점 키트 매일 한문제 ! 
 
 ## 방식 
 
