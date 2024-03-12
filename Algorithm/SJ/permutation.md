@@ -118,7 +118,7 @@ public class Main16 {
 ```
 
 n = 3, r = 2가 입력되었을 때 결과<br>
-
 <img src="../img/permutation_2.png" width="80">
+
 
 
