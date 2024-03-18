@@ -34,7 +34,7 @@ Stack<String> stringStack = new Stack<>(); // 문자 데이터를 담는 스택
 
 ```java
   // pop() : 가장 최근에 삽입된 값(최상부 데이터) 삭제. 
-  // 스택이 비었을지 예외 발생
+  // 스택이 비었을시 EmptyStackException 예외 발생
   stack.pop();
   
   // clear() : 스택을 완전히 비움
@@ -45,7 +45,7 @@ Stack<String> stringStack = new Stack<>(); // 문자 데이터를 담는 스택
 
 ```java
 // 최상단 데이터 리턴
-// 스택이 비었을지 예외 발생
+// 스택이 비었을시 EmptyStackException 예외 발생
 stack.peek() 
 ```
 
