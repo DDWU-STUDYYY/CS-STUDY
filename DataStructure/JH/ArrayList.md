@@ -163,4 +163,32 @@ add 는 기본적으로 리스트의 가장 끝에 값을 추가한다.
 
 ```
 
+```markdown
+
+  ArrayList<Integer>[] A = new ArrayList[N+1];
+  
+  for(int i =1; i<=N; i++) {
+      A[i] = new ArrayList<Integer>();
+      
+      A[S].add(E);
+      B.add(E);
+      
+      for(int i=1; i<=N; i++) {
+         Collections.sort(A[i]);
+         }
+         
+         Collections.sort(B);
+         
+ ```
+
+```markdown
+
+ // 한번에 초기화 
+ 
+ List<Integer> A = new ArrayList<>(Arrays.asList(9,9,9,9));
+ 
+  
+
+
+
 참고 : 참고 : https://inpa.tistory.com/entry/JAVA-%E2%98%95-ArrayList-%EA%B5%AC%EC%A1%B0-%EC%82%AC%EC%9A%A9%EB%B2%95
